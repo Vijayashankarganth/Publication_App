@@ -1,0 +1,48 @@
+
+.input-icon span {
+    position: absolute;
+    
+}
+
+.clear  {
+  padding: 10px;
+  min-width: 40px;
+  margin-left: -30px;
+  margin-top: 18px;
+  cursor: pointer;
+}
+  
+.icon {
+    padding: 10px;
+    min-width: 40px;
+    margin-top: 18px;
+    margin-left: 34.5%;
+}
+  
+.input {
+    width: 30%;
+    padding: 10px;
+    font-size: 110%;
+    margin-top: 15px;
+    margin-left: 35%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.button button {
+    margin: 10px;
+    background-color: rgba(34, 144, 207, 0.815);
+    border:1px solid transparent;
+    border-radius:6px;
+    padding:8px 20px;
+    color:white;
+    font-size: 110%;
+    cursor:pointer;
+
+}
+
+.button{
+     width: 40%;
+     text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+}

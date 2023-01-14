@@ -1,0 +1,46 @@
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+
+::-webkit-scrollbar-track {
+  background:#d7d3d3; 
+  border-radius: 10px;
+}
+ 
+
+::-webkit-scrollbar-thumb {
+  background: rgb(17, 71, 188); 
+  border-radius: 10px;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+
+.list{
+    overflow-y: auto;
+    height: 500px;
+    width: 70%;
+    margin-left: 15%;
+    border: 1px solid gray;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 10px;
+    }
+
+.list .post {
+    border:2px solid rgba(119, 122, 122, 0.83);
+    margin: 15px;
+    position: relative;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.list .post:hover {
+    box-shadow: 3px 3px 4px grey ;
+}
+
