@@ -43,7 +43,7 @@ const  PostForm = (props) =>{
  
     return (
         <div  className="postform">
-                <h2>Publish Form</h2>
+                <h2>Publication Form</h2>
             <form onSubmit = {handleSubmit}><br/>
                
                 {error.title && 
